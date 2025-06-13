@@ -20,10 +20,11 @@ A simple web-based Parking Management System created using **HTML**, **CSS**, an
 
 ---
 
-## 📸 ![Uploading image.png…]()
+## 📸 ![image](https://github.com/user-attachments/assets/9afb860f-de9c-4956-b898-52ea667b32cc)
 
 
-_Add screenshots of your project here if you’d like_
+
+
 
 ---
 
